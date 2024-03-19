@@ -19,14 +19,14 @@
             <ul>
                 <li>🌱 Currently, I'm learning about making programming languages more accessible.</li>
                 <li>👯 I'm open to collaborating on projects related to creating intuitive programming languages.</li>
-                <li>💬 Ask me about <ul> 
+                <ul>💬 Ask me about <ul> 
 <il>HTML🩻</il>
 <il>css🖋️</il>
 <il>JS🚀</il>
 <il>php🐘</il>
 <il>c++🖥️</il>
 <il>python🐍</il>
-</ul> or any related topics!</li>
+</ul> or any related topics!</ul>
                 <li>📫 You can reach me at <strong>whwodev@gmail.com</strong>.</li>
             </ul>
         </section>
