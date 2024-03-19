@@ -53,7 +53,7 @@
             </ul>
         </section>
         <footer>
-            <p>Thanks for visiting my profile! 😊</p>
+            <p>Thanks for visiting my profile! 😊 and that's why I took for you ʕ⁠っ⁠•⁠ᴥ⁠•⁠ʔ⁠っ🍪</p>
         </footer>
     </div>
 </body>
