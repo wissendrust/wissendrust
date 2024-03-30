@@ -22,7 +22,7 @@
                 💬 Ask me about<ul>
 
                     
-<il>HTML🩻</il>
+<il>HTML📄</il>
 <il>css🖋️</il>
 <il>JS🚀</il>
 <il>php🐘</il>
@@ -51,7 +51,7 @@
             <h2>Featured Projects</h2>
             <ul>
                 <li><strong>Koral:</strong> An easy-to-use programming language.</li>
-                <li><strong>Wolf Base:</strong> A language inspired by XML or JSON, incorporating HTML, CSS, JavaScript, PHP, C++, and Python.</li>
+                <li><strong>Wolf Base:</strong> A language inspired by XML or JSON.</li>
             </ul>
         </section>
         <footer>
